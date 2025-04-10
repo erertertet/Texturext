@@ -1,3 +1,4 @@
+accelerate==1.6.0
 certifi==2025.1.31
 charset-normalizer==3.4.1
 diffusers==0.33.1
@@ -25,6 +26,7 @@ nvidia-nvtx-cu11==11.8.86
 packaging==24.2
 pillow==11.1.0
 protobuf==6.30.2
+psutil==7.0.0
 PyYAML==6.0.2
 regex==2024.11.6
 requests==2.32.3
