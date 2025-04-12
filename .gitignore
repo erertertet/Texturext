@@ -16,3 +16,5 @@
 *.heic
 *.jfif
 *.exif
+
+__pycache__/
